@@ -1,7 +1,7 @@
 {
-  "name": "caffeine",
+  "name": "path-tracer",
   "license": "Unlicense",
-  "author": "Rye Terrell",
+  "author": "",
   "version": "1.0.0",
   "scripts": {
     "start": "budo -H 172.20.138.103 main.js:bundle.js --live -- -t glslify",
